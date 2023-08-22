@@ -18,7 +18,9 @@ export function HomeHeader() {
           Olá
         </Text>
 
-        <Heading color="gray.100">Mauriani</Heading>
+        <Heading color="gray.100" fontSize="md" fontFamily={"heading"}>
+          Mauriani
+        </Heading>
       </VStack>
 
       <TouchableOpacity>
